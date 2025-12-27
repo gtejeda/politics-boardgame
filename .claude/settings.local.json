@@ -4,7 +4,9 @@
       "Bash(mkdir -p:*)",
       "Bash(touch:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(.specify/scripts/bash/check-prerequisites.sh:*)",
+      "Bash(mv:*)"
     ]
   }
 }
